@@ -1,10 +1,5 @@
-# Jot
-The random piece of paper that lives in your Mac menubar.
+# BlackBlock
+Minimalistic note taking & mind notes developed in Swift for MacOS and for the Mac Menu Bar. 
+"Simplicity is the ultimate sophistication"
 
-https://getjot.app
-
-
-![alt text](https://getjot.app/assets/PopOver.png "Logo Title Text 1")
-
----
-Get prebuilt app from https://gumroad.com/l/WseNv
+(Personal project based on the Jot app). Enjoy. Ricardo Ribeiro 2020.
